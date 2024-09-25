@@ -5,7 +5,7 @@ const (
 	defaultOptimalScreenHeight = 768
 	defaultOptimalResolution   = 96
 
-	defaultTimezone = "Asia/Shanghai"
+	defaultTimezone = "Asia/Tehran"
 )
 
 func NewClientInformation() ClientInformation {
